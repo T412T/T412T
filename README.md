@@ -118,8 +118,3 @@ I did an internship at Naarea for a period of six months.
   <br><br>
   <samp>
 
-------
-
-[Jean-Maxime]([https://github.com/T412T])
-
-Last Edited on: 23/05/2022
