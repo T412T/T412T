@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/dWxFpBeot1S8MabzLA/giphy.gif" width="27px">
+  <img src="https://media2.giphy.com/media/dWxFpBeot1S8MabzLA/giphy.gif" width="47px">
   <br><br>
   <samp>
     :wave: Hi! I'm jean-maxime ! 
