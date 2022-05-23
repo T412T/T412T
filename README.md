@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <br>I'm a cybersecurity engineer
     <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
     <img src="https://c.tenor.com/UGOuQMZHsf8AAAAC/mars-planet.gif" width="350px" align="center">
-  </samp>
+    </samp>
 </p>
 
 <br>
