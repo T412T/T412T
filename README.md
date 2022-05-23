@@ -41,6 +41,7 @@ I did an internship at Naarea for a period of six months.
 </p>
 <br>
 <p>
+  <!--
   <b>🚀 Skills :</b><br>
 
 Prototyping :<br>
@@ -58,3 +59,4 @@ Computer language and framework :<br>
 › C ++<br>
 
 </p>
+-->
