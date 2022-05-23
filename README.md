@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/dWxFpBeot1S8MabzLA/giphy.gif" width="47px">
+  <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/france-flag-template-design-5ec2fe80aa53cdbf5f8d6db13e509ce8_screen.jpg?ts=1594238601" width="47px">
   <br><br>
   <samp>
     :wave: Hi! I'm jean-maxime ! 
