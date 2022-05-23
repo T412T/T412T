@@ -81,7 +81,8 @@ I did an internship at Naarea for a period of six months.
     &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
-    
+   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
+     &emsp;
     
     
 </p>
