@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     :wave: Hi! I'm jean-maxime ! 
     <br>I'm a cybersecurity engineer
     <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
-    <img src="https://www.naarea.fr/wp-content/uploads/2021/11/photo-planete.jpg" width="350px" align="center">
+    <img src="![image](https://user-images.githubusercontent.com/56034778/169774986-7d539582-0c7f-45d7-b138-d147cfbe584d.png)" width="350px" align="center">
   </samp>
 </p>
 
