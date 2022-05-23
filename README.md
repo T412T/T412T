@@ -103,9 +103,8 @@ I did an internship at Naarea for a period of six months.
     &emsp;
   
   
-  <img src="https://profile-counter.glitch.me/T412T/count.svg">
+  <img src="https://profile-counter.glitch.me/T412T/count.svg">  [![GitHub followers](https://img.shields.io/github/followers/T412T.svg?style=social&label=Followers)](https://github.com/T412T?tab=followers)
 
-[![GitHub followers](https://img.shields.io/github/followers/T412T.svg?style=social&label=Followers)](https://github.com/T412T?tab=followers)
 
 
 <p>Connect with me on
