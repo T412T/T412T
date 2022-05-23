@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/france-flag-template-design-5ec2fe80aa53cdbf5f8d6db13e509ce8_screen.jpg?ts=1594238601" width="27px">
   <br><br>
   <samp>
-    :wave: Hi! I'm jean-Maxime ! 
+    :wave: Hi! I'm Jean-Maxime ! 
     <br>I'm a cybersecurity engineer
     <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
     <img src="https://c.tenor.com/UGOuQMZHsf8AAAAC/mars-planet.gif" width="350px" align="center">
