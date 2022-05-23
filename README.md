@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     :wave: Hi! I'm jean-maxime ! 
     <br>I'm a cybersecurity engineer
     <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
-    <img src="https://user-images.githubusercontent.com/56034778/169774986-7d539582-0c7f-45d7-b138-d147cfbe584d.png" width="350px" align="center">
+    <img src="https://c.tenor.com/UGOuQMZHsf8AAAAC/mars-planet.gif" width="350px" align="center">
   </samp>
 </p>
 
