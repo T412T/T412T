@@ -46,7 +46,7 @@ I did an internship at Naarea for a period of six months.
   
 - 💬 Ask me about ... Anythings
   
-- ⚡ Fun fact: I love taking photos, playing video games. and space !! 👨‍🚀
+- ⚡ Fun fact: I love taking photos, playing video games and space !! 👨‍🚀
 
 
   ## 🛠️ My Skills
@@ -85,16 +85,24 @@ I did an internship at Naarea for a period of six months.
      &emsp;
     <a href="#"><img alt="Garuda" src="https://img.shields.io/badge/Garuda-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
      &emsp;
-    <!--<a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;-->
+    
     
 </p>
+
+ ### 👉  Operating System 
+ 
+ <p>
+  
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    &emsp;
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    &emsp;
+     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    &emsp;
+     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    &emsp;
+  
   
   <img src="https://profile-counter.glitch.me/T412T/count.svg">
 
