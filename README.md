@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://user-images.githubusercontent.com/56034778/169770469-b1ac20c9-fd95-459b-adb1-2f80dc2c15de.png" width="27px">
+
   <br><br>
   <samp>
-    :wave: Hi! I'm Delphine ! 
+    :wave: Hi! I'm jean-maxime ! 
     <br>I'm a cybersecurity engineer
     <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
     <img src="https://www.naarea.fr/wp-content/uploads/2021/11/photo-planete.jpg" width="350px" align="center">
