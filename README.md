@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     :wave: Hi! I'm jean-maxime ! 
     <br>I'm a cybersecurity engineer
     <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
-    <img src="https://fotomelia.com/wp-content/uploads/2021/06/gif-anime-gratuit-libre-de-droits.gif" width="350px" align="center">
+    <img src="https://www.naarea.fr/wp-content/uploads/2021/11/photo-planete.jpg" width="350px" align="center">
   </samp>
 </p>
 
