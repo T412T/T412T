@@ -35,31 +35,12 @@ Here are some ideas to get you started:
   <b>:telescope: 2021 projects:</b><br>
 I am currently working at Naarea for a period of tow years until I graduate!
 
-<b> 2020 projects:</b><br>
+<b>:telescope: 2020 projects:</b><br>
 I did an internship at Naarea for a period of six months. 
 
 </p>
 <br>
 <p>
-  <!--
-  <b>🚀 Skills :</b><br>
-
-Prototyping :<br>
-› Figma - Adobe XD<br>
-
-PAO :<br>
-› Illustrator - InDesign - Photoshop<br>
-
-Computer language and framework :<br>
-› HTML 5 - CSS 3 - JavaScript<br>
-› MySQL - PostgreSQL - NoSQL<br>
-› React.js - Angular - React Native<br>
-› Java - Maven - Java Spring<br>
-› Node.js - Express<br>
-› C ++<br>
-
-</p>
--->
   
 - 🌱 I’m currently learning Python
   
