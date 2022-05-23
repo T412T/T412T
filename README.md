@@ -112,3 +112,8 @@ I did an internship at Naarea for a period of six months.
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/jean-maxime-alexandre/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
+
+<p align="right">
+  <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="50px">
+  <br><br>
+  <samp>
