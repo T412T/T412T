@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56034778/169770469-b1ac20c9-fd95-459b-adb1-2f80dc2c15de.png" width="27px">
+  <img src="https://c.tenor.com/UGOuQMZHsf8AAAAC/mars-planet.gif" width="27px">
   <br><br>
   <samp>
     :wave: Hi! I'm jean-maxime ! 
