@@ -79,9 +79,6 @@ I did an internship at Naarea for a period of six months.
     <a href="https://code.visualstudio.com/">
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
-    <a href="https://stackoverflow.com/">
-      <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    &emsp;
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
    <a href="https://github.com/"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
@@ -121,10 +118,12 @@ I did an internship at Naarea for a period of six months.
 <a target="_blank" href="https://www.linkedin.com/in/jean-maxime-alexandre/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
 &emsp;
 
+<!--
 <p align="right">
   <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="50px">
   <br><br>
   <samp>
+-->
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
