@@ -60,8 +60,8 @@ Computer language and framework :<br>
 
 </p>
 -->
-🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python
   
-💬 Ask me about ... Anythings
+- 💬 Ask me about ... Anythings
 
-📫 How to reach me: https://www.linkedin.com/in/jean-maxime-alexandre/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jean-maxime-alexandre/)
