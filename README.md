@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <br>
 
 <p>
+  <b>:telescope: 2022 projects:</b><br>
+I am currently working at Naarea and learning cybersécurity!
+  
   <b>:telescope: 2021 projects:</b><br>
 I am currently working at Naarea for a period of tow years until I graduate!
 
